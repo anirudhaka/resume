@@ -1,3 +1,10 @@
 *.aux
 *.out
 *.log
+
+// other latex files
+*.fls
+*.fdb*
+*.synctex*
+*.fdb_latexmk
+*.synctex.gz
