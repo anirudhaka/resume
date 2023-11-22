@@ -3,7 +3,7 @@ name: Main.tex Workflow
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - 'main.tex'
 
